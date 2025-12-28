@@ -1,0 +1,38 @@
+{
+  "name": "qr-vue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@motionone/vue": "^10.16.4",
+    "@primevue/themes": "^4.5.4",
+    "@vueuse/core": "^14.1.0",
+    "@vueuse/motion": "^3.0.3",
+    "axios": "^1.13.2",
+    "colorjs.io": "^0.6.0",
+    "file-saver": "^2.0.5",
+    "floating-vue": "^5.2.2",
+    "jszip": "^3.10.1",
+    "lucide-vue-next": "^0.562.0",
+    "primeflex": "^4.0.0",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.5.4",
+    "qrious": "^4.0.2",
+    "vue": "^3.5.24"
+  },
+  "devDependencies": {
+    "@unocss/preset-attributify": "^66.5.11",
+    "@unocss/preset-icons": "^66.5.11",
+    "@unocss/preset-uno": "^66.5.11",
+    "@unocss/reset": "^66.5.11",
+    "@unocss/vite": "^66.5.11",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "unocss": "^66.5.11",
+    "vite": "^7.2.4"
+  }
+}
