@@ -1,5 +1,48 @@
-# Vue 3 + Vite
+# QR-Studio
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+> QR code studio built with Vue 3, using `<script setup>` SFCs.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+## Overview
+
+QR code studio built with Vue 3, using `<script setup>` SFCs.
+
+## Tech Stack
+
+Vue 3, Vite
+
+## Features
+
+- QR code generation
+- Customization options
+- Vue 3 Composition API
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the tools required for this stack installed (e.g. Python 3.10+, Node.js 18+, or Android Studio).
+
+### Installation & Usage
+
+```bash
+git clone https://github.com/<your-username>/QR-Studio.git
+cd QR-Studio
+npm install
+npm run dev
+```
+Build for production with `npm run build`.
+
+## Contributing
+
+Contributions are welcome. Fork the repo, create a feature branch, and open a pull request.
+
+## License
+
+Distributed under the MIT License (change as needed).
+
+## Author
+
+**Louai**: [GitHub](https://github.com/<your-username>)
